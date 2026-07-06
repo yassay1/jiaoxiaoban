@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m compileall app)",
+      "Bash(python -V)",
+      "Bash(pip list *)",
+      "Bash(docker compose *)"
+    ]
+  }
+}
