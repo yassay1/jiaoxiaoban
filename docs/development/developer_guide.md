@@ -132,7 +132,6 @@ _AGENT_RUNNER["career_agent"] = run_career_agent
 
 ```bash
 # 安装依赖
-cd campus-agent-service
 pip install -e ".[dev]"
 
 # 启动服务（需要先配好 .env）
